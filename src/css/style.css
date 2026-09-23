@@ -1,0 +1,40 @@
+/* estilo da pagina */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4ece4;
+    color: #333;
+}
+header {
+    
+    background-color: #6b0f1a;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+header h1 {
+    margin: 0;
+    font-size: 40px;
+}
+header p {
+    margin-top: 5px;
+    font-style: italic;
+}
+.caixa {
+    background-color: white;
+    width: 60%;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 8px;
+    border-left: 6px solid #6b0f1a;
+}
+.caixa h2 {
+    color: #6b0f1a;
+}
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #3d0a10;
+    color: white;
+    font-size: 14px;
+}
